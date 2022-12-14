@@ -10,12 +10,13 @@ This is also my mad scientist lab. That, meaning the code is likely unstable and
 - Intro to Java, Printing to Screen, Variables, Datatypes, Scanner, Loops
 - Classes and Objects
 	+ Basic review of Classes as Blueprints for Objects
+- Interfaces, Polymorphism demonstration
 
 **Changes:**
 
 [ 12/14/22 ]
 
-Added an Intro to Java section. It includes a basic overview of declaring and initializing variables, using the Scanner and Displaying output to the screen
+Added an Intro to Java section. It includes a basic overview of declaring and initializing variables, using the Scanner and Displaying output to the screen. Added a bit on Interfaces and Polymorphism.
 
 [ 12/13/22 ] 
 
