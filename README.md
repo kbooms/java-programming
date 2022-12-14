@@ -11,12 +11,13 @@ This is also my mad scientist lab. That, meaning the code is likely unstable and
 - Classes and Objects
 	+ Basic review of Classes as Blueprints for Objects
 - Interfaces, Polymorphism demonstration
+- Unit Testing basics
 
 **Changes:**
 
 [ 12/14/22 ]
 
-Added an Intro to Java section. It includes a basic overview of declaring and initializing variables, using the Scanner and Displaying output to the screen. Added a bit on Interfaces and Polymorphism.
+Added an Intro to Java section. It includes a basic overview of declaring and initializing variables, using the Scanner and Displaying output to the screen. Added a bit on Interfaces and Polymorphism. Added a simple Calculator Class to start with Unit Testing
 
 [ 12/13/22 ] 
 
