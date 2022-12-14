@@ -1,5 +1,3 @@
-package com.kevinbooms;
-
 import com.kevinbooms.ClassesAndObjects.Person; // imported/created the person class so we have a "blueprint" for persons
 
 public class App {

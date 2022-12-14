@@ -5,16 +5,25 @@ This is my learning library. When I have trouble with a concept or need some pra
 
 This is also my mad scientist lab. That, meaning the code is likely unstable and may not be runnable at times.
 
-<b>Categories</b>
+**Categories**
+
+- Intro to Java, Printing to Screen, Variables, Datatypes, Scanner, Loops
 - Classes and Objects
 	+ Basic review of Classes as Blueprints for Objects
 
-<b>Changes:</b>
+**Changes:**
 
-[ 12/13/22 ] Added a Classes and Objects section
+[ 12/14/22 ]
 
-	
-	This is the construct. It's our loading program. We can load anything...
+Added an Intro to Java section. It includes a basic overview of declaring and initializing variables, using the Scanner and Displaying output to the screen
+
+[ 12/13/22 ] 
+
+Added a Classes and Objects section
+
+---
+:EOF:	
+>This is the construct. It's our loading program. We can load anything...
 	From clothing to equipment, weapons, training simulations; anything we need.
 	
 
