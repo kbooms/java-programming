@@ -12,8 +12,14 @@ This is also my mad scientist lab. That, meaning the code is likely unstable and
 	+ Basic review of Classes as Blueprints for Objects
 - Interfaces, Polymorphism demonstration
 - Unit Testing basics
+- File I/O
+- Java Exercises (A collection of coding problems I've managed to solve)
 
 **Changes:**
+
+[ 12/15/22 ]
+
+Added a File I/O section as well as a section of completed Java challenges that I've tried.
 
 [ 12/14/22 ]
 
